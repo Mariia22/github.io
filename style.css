@@ -7,7 +7,7 @@ body{
     background-color:black ;
 }
 .main {
-    background-image: url(images/main.JPG);
+    background-image: url(main.JPG);
     background-size: cover;
     background-position: center;
     overflow: hidden;
